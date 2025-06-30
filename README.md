@@ -1,5 +1,7 @@
 # Suckless
 
+![Preview](https://github.com/zistro/Suckless-zistro/blob/main/dwm-preview.png)
+
 These are my custom builds of suckless apps.
 
 ## Dwm
