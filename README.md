@@ -82,6 +82,7 @@ sudo make install
 
 ### Dwmblocks
 Yes it is not a suckless software but is needed for dwm.
+Add it to your autostart.
 
 It will use some scripts so add the script folder to your path
 
