@@ -9,7 +9,7 @@ You'll probably need imlib2 to build.
 
 I am too lazy to list all the dependency check the error messages.
 
-Go to dwm folder make and install copy dwm.desktop file in xsessions folder so
+Go to dwm folder make and install then copy dwm.desktop file in xsessions folder so
 that your display manager can use it launch dwm.
 
 ```
